@@ -1,5 +1,30 @@
 ## vue3项目创建
 
+### 推荐: pnpm + vite + vue3 + javascript
+> pnpm create vite 
+> 
+> pnpm install 
+> 
+> vite 
+> 
+> vite build 
+>
+> pnpm install vue-router@4 
+> 
+> pnpm install pinia
+> 
+> pnpm install axios
+> 
+> request.js 
+> 
+> router
+> 
+> stores
+> 
+> views
+> 
+> components
+
 ###  创建脚手架
 #####1. 命令
 
