@@ -15,11 +15,15 @@
 > 
 > pnpm install axios
 > 
+> pnpm install element-plus
+> 
 > request.js 
 > 
 > router
 > 
 > stores
+> 
+> main.js
 > 
 > views
 > 
