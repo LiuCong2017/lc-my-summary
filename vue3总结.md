@@ -129,3 +129,12 @@ setup(){
 
 - Antd Pro Vue (相当于vue-element-admin)  
 	[https://pro.antdv.com/](https://pro.antdv.com/)
+	
+- Element-plus
+	[https://element-plus.gitee.io/zh-CN/](https://element-plus.gitee.io/zh-CN/)
+	
+- Vite 官方中文文档
+	[https://cn.vitejs.dev/](https://cn.vitejs.dev)
+
+- vue3
+	[https://vuejs.org/](https://vuejs.org/)
