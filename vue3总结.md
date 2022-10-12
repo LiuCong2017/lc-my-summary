@@ -138,3 +138,6 @@ setup(){
 
 - vue3
 	[https://vuejs.org/](https://vuejs.org/)
+	
+- vue3 one piece
+	[https://vue3js.cn/](https://vue3js.cn/)
