@@ -11,12 +11,12 @@
 >
 > pnpm install vue-router@4 
 > 
-> pnpm install pinia
+> pnpm install pinia / pnpm install vuex@next --save
 > 
 > pnpm install axios
 > 
-> pnpm install element-plus
-> 
+> pnpm install element-plus / pnpm install ant-design-vue --save
+>
 > request.js 
 > 
 > router
