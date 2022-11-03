@@ -15,7 +15,8 @@
 > 
 > pnpm install axios
 > 
-> pnpm install element-plus / pnpm install ant-design-vue --save
+> pnpm install element-plus / (pnpm install ant-design-vue --save)
+> pnpm install @element-plus/icons-vue
 >
 > request.js 
 > 
