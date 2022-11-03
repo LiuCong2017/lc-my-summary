@@ -18,6 +18,10 @@
 > pnpm install element-plus / (pnpm install ant-design-vue --save)
 > 
 > pnpm install @element-plus/icons-vue
+> 
+>pnpm install unplugin-auto-import
+>
+>pnpm install unplugin-vue-components
 >
 > request.js 
 > 
